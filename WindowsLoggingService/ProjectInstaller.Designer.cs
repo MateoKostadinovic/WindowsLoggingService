@@ -39,7 +39,7 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.ServiceName = "ServiceLogTest";
+            this.serviceInstaller1.ServiceName = "ServiceLogTime";
             // 
             // ProjectInstaller
             // 
